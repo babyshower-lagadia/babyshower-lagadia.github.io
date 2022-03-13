@@ -5,5 +5,7 @@ date: 2014-07-18
 img: target.png
 alt: image-alt
 title: Registry
+link: https://www.target.com/gift-registry/gift/baby-boy-lagadia
+link-text: Target Registry
 description: Here's the link to our Target baby registry.
 ---
