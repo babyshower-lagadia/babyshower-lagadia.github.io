@@ -34,23 +34,15 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Francis Lagadia
   location: Location
-  social: Around the Web
+  social: Contact Us
   credits: Credits
 
-  ## Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-  #social:
-  #  - title: twitter
-  #    url: http://twitter.com/jekyllrb
-  #  - title: facebook
-  #    url:
-  #  - title: stack-overflow
-  #    url: http://stackoverflow.com/questions/tagged/jekyll
-  #  - title: bitbucket
-  #    url: http://bitbucket.org/jekyll
-  #  - title: github
-  #    url: http://github.com/jekyll
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: envelope
+    url: mailto:josel.lagadia@gmail.com
 
 # Postal address (add as many lines as necessary)
 address:
