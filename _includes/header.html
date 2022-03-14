@@ -8,8 +8,11 @@
           <span class="name">{{ site.tag_line }}</span>
           <hr class="star-light" />
           <span class="skills">{{ site.skills }}</span>
-          <hr class="star-light" />
+	  {% if site.event_details %}
+	  <br/>
+	  <br/>
           <span class="skills">{{ site.event_details }}</span>
+	  {% endif %}
         </div>
       </div>
     </div>
