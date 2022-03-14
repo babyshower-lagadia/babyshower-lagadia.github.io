@@ -1,7 +1,6 @@
 ---
 layout: default
-modal-id: 1
-date: 2014-07-18
+modal-id: 5
 img: target.png
 alt: image-alt
 link: https://www.target.com/gift-registry/gift/baby-boy-lagadia

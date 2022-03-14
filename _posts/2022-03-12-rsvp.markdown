@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 1
+img: rsvp.png
+alt: image-alt
+link: https://forms.gle/Lfmt35ZrpVkGFAqU6
+link-text: RSVP
+description: Let us know if you can make it.
+---

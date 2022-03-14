@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 2
+img: map.png
+alt: image-alt
+link: https://goo.gl/maps/PtKUS9R6k9BkkYxq8
+link-text: 7216 Autumn Ave, Whittier, CA 90602
+description: Directions to the event location.
+---
