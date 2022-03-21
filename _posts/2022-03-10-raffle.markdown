@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 3
+img: raffle.png
+title: Diaper Raffle
+alt: image-alt
+description: Instead of bringin diapers, please donate to the diaper fund via Amazon, Venmo or Zelle
+---
+## How to Play
+
+1. For every $5 donated, you earn a raffle ticket
+2. Donate by nood on the day of the shower to qualify
+3. Don't forget to put the word "Diaper" in the memo line when sending by Venmo or Zelle
+4. Your ticket will be given when you arrive
+5. We will draw a winner after each game
+6. You must be present to claim the prize, otherwise we will draw another name
