@@ -18,14 +18,19 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
+		    {% comment %}
                     <li class="page-scroll">
                         <a href="#portfolio">Links</a>
                     </li>
-		    {% comment %}
                     <li class="page-scroll">
                         <a href="#about">About</a>
                     </li>
 		    {% endcomment %}
+            {% for post in site.posts %}
+                    <li class="nav-item">
+                        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">{{ post.title }}</a>
+                    </li>
+            {% endfor %}
             	    <!-- 
                     <li class="page-scroll">
                         <a href="#contact">Contact</a>
