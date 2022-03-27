@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 5
-img: target.png
+img: registry.png
 alt: image-alt
-link: https://www.target.com/gift-registry/gift/baby-boy-lagadia
-link-text: Target Registry
-description: Here's the link to our Target baby registry.
+link: https://www.babylist.com/baby-registry-josel
+link-text: Babylist Registry
+description: Here's the link to our baby registry.
 ---
