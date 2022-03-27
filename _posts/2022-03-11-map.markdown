@@ -2,8 +2,17 @@
 layout: default
 modal-id: 2
 img: map.png
+img-override: event_location.jpg
 alt: image-alt
-link: https://goo.gl/maps/PtKUS9R6k9BkkYxq8
-link-text: 7216 Autumn Ave, Whittier, CA 90602
-description: Directions to the event location.
 ---
+#### The Commons
+##### Lounge Area
+
+---
+
+<div class="map-responsive">
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d827.1712989513536!2d-118.0505647!3d33.97493!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2d31a456a490f%3A0x36c5e968c8780923!2sThe%20Groves%20in%20Whittier%20by%20Brookfield%20Residential%20and%20Lennar!5e0!3m2!1sen!2sus!4v1648360226127!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen=""></iframe>
+</div>
+
+---
+Address: [7216 Autumn Ave, Whittier, CA 90602](https://goo.gl/maps/PtKUS9R6k9BkkYxq8)
